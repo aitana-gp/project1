@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lin-Manuel Miranda</title>
+    <link href="./style.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <a href= "https://www.linmanuel.com" target="_blank"> <h1>Lin-Manuel Miranda</h1></a>
+    <h2><em>Learn about the most talented person and artist ever known</em></h2>
+    <img src="https://d3s3zh7icgjwgd.cloudfront.net/AcuCustom/Sitename/DAM/336/shutterstock_5159601611_Standard.jpg" height="320" width="500">
+    <div id="Biography">
+      <h3>Biography</h3>
+      <p>Lin-Manuel Miranda was born on January 16, 1980 in New York City, New York, USA. He is an actor and composer, known for:
+        <ul>
+          <li>Hamilton (2020)</li>
+          <li>In the Heights (2021)</li>
+          <li>Mary Poppins Returns (2018)</li>
+          <li>And a LOT more</li>
+        </ul>
+      He has been married to Vanessa Nadal Miranda since September 5, 2010. They have two children.</p>
+    </div>
+    <br>
+    <h3><em>Some of his creations</em></h3>
+    <div id="In The Heights">
+      <h3>In The Heights</h3>
+      <p>In The Heights is a musical Lin-Manuel Miranda created while thinking of his Latin roots. In the show, he plays Usnavi, the main character, which is eager to go back to the Dominican Republic, but at the end stays in Washington Heights, acknowledging it as his Home</p>
+      <img src="https://variety.com/wp-content/uploads/2018/05/in-the-heights.jpg" width="500">
+      <h4>Listen to the <a href="https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg">In The Heights</a> playlist in Spotify.</h4>
+      <video src="https://www.youtube.com/watch?v=UvVgm4imyj0" width="500" controls>Video not supported</video>
+      <h5>In The Heights in the Tony Awards 2008</h5>
+    </div>
+    <div id="Hamilton">
+      <br><br>
+      <h3>Hamilton</h3>
+      <p>Miranda played <a href="https://en.wikipedia.org/wiki/Hamilton_(musical" target="_blank">ALEXANDER HAMILTON</a> in his show <a href="https://en.wikipedia.org/wiki/Alexander_Hamilton" target="_target">HAMILTON</a>, which he was inspired by the Alexander Hamilton's biography he once read. For Miranda, Hamilton was all about rap.</p>
+      <img src="https://media.npr.org/assets/img/2020/06/29/fg24xang_wide-04b62384d6307f2a0e5bfeb277bc916078c17638.jpeg" width="500">
+      <h4>Listen to the <a href="https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc">Hamilton</a> playlist in Spotify</h4>
+      <video src="https://www.youtube.com/watch?v=Fb4GlOabb1M&pp=0gcJCfcAhR29_xXO" width="500" controls>Video not supported</video>
+      <h5>Hamilton in the Tony Awards 2016</h5>
+    </div>
+  </body>
+</html>
